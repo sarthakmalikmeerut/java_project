@@ -1,0 +1,32 @@
+open chrome
+close chrome
+open 5
+what is today date 
+how are you
+what would you prefer tea or coffee 
+can you show my emails
+can you compose one email for me
+can you show my whatsapp
+close it
+close my emails
+shut down
+play music
+open text to speech convertor
+google
+youtube
+facebook
+twitter
+wikipedia
+instagram
+baidu
+yahoo
+how
+who
+what
+why
+when
+born
+location
+ORLANDO
+HEY ORLANDO
+java teacher

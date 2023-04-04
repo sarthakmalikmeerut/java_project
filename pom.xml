@@ -1,0 +1,17 @@
+<dependency>
+    <groupId>de.sciss</groupId>
+    <artifactId>sphinx4-data</artifactId>
+    <version>1.0.0</version>
+
+    <groupId>net.sf.phat</groupId>
+    <artifactId>sphinx4-core</artifactId>
+    <version>5prealpha</version>
+
+    <groupId>edu.cmu.sphinx</groupId>
+    <artifactId>sphinx4-core</artifactId>
+    <version>5prealpha-SNAPSHOT</version>
+
+    <groupId>edu.cmu.sphinx</groupId>
+    <artifactId>sphinx4-data</artifactId>
+    <version>5prealpha-SNAPSHOT</version>
+</dependency>
